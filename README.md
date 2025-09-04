@@ -198,7 +198,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
-
+```
 ## Output screen shots of proteus  :
 
 ### LED OFF
